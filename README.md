@@ -8,6 +8,7 @@
 - [A cool topology book I want to read](https://topology.mitpress.mit.edu/)
 - [The paper copy of that book](https://www.amazon.com/gp/product/0262539357/)
 - [My first year grad school topology class](http://math.colorado.edu/~jonathan.wise/teaching/math6210-fall-2012/)
+- [scikit-tda](https://github.com/scikit-tda/scikit-tda)
 
 ## Week 1
 
