@@ -44,8 +44,6 @@ like we do in calculus, since constant functions map open sets to a singleton
 In fact we define continuity using preimages of open sets for this reason.
 Since in calculus all functions are locally invertible, this is fine.
 
-### Compactness
-
 High points:
 
 1. Forward images of compact sets are compact.
