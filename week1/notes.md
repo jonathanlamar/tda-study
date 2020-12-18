@@ -139,4 +139,11 @@ Similarly, we can define the analogous topology on $Y$. Both of these
 topologies are referred to as _the quotient topology_. Note that the quotient
 topology endows $p$ (also $q$) with the property of being an _open map_.
 
+#### Subspace Topology
+
+Not a lot to say here. It also has a categorical definition (coarsest topology
+to make an injection continuous). Note the open sets of $A\subseteq X$ are
+therefore the intersections of open sets of $X$ with $A$. This means they may
+not be open in $X$ (only if $A$ is open in $X$).
+
 ## Chapter 3
