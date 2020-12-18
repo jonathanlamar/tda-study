@@ -36,13 +36,13 @@ Some guiding intuitions to keep in mind are:
 
 ### Continuity
 
-In calculus, we say continuous if small wiggles in the domain beget small
-wiggles in the range. What is closeness but open sets though? So we can only
-measure small wiggles via open sets. However, we can't look at forward images
-like we do in calculus, since constant functions map open sets to a singleton
-(which is not generally open). Thus, we have to measure preimages of open sets.
-In fact we define continuity using preimages of open sets for this reason.
-Since in calculus all functions are locally invertible, this is fine.
+In calculus, we say a function is continuous if small wiggles in the domain
+beget small wiggles in the range. What is closeness but open sets though? So we
+can only measure small wiggles via open sets. However, we can't look at forward
+images like we do in calculus, since constant functions map open sets to a
+singleton (which is not generally open). Thus, we have to measure preimages of
+open sets. In fact we define continuity using preimages of open sets for this
+reason. Since in calculus all functions are locally invertible, this is fine.
 
 High points:
 
@@ -68,10 +68,10 @@ Some features of Hausdorff spaces that do _not_ hold in general:
 
 Absolute bare minimum category theory needed for this to make sense: A _cone_
 over a diagram is an object that maps to every object in the diagram, in a way
-such that all "triangles" commute. Keeping in mind that evrything in category
+such that all "triangles" commute. Keeping in mind that everything in category
 theory is a category, there is a category of cones over a diagram. Likewise,
 there is a category of co-cones under a diagram (arrows generally move down and
-to the right0. An object is _initial_ in a category if it has a unique map to
+to the right. An object is _initial_ in a category if it has a unique map to
 every other object. Likewise an object is _terminal_ if it accepts a unique map
 from every other object.
 
