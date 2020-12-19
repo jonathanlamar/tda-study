@@ -166,3 +166,25 @@ Theorem: In a metrizable space, TFAE:
 2. Every infinite subset of $X$ has a limit point in $X$.
 3. Every sequence of points in $X$ has a convergent subsequence whose limit lies
    in $X$.
+
+Theorem: A topological space $X$ is connected if and only if the functor
+Hom($X$, $-$) preserves coproducts.
+
+There are many reasons to prefer local properties. Here is one result along
+those lines.
+
+Theorem: In a locally path connected space, the path components and connected
+components are the same.
+
+## Some other notes
+
+Other things I read that sound interesting. Maybe ignore for now.
+
+- Functors generalize points (Huh?). This seems like a really insightful
+  statement for modern math. It has something to do with the Yoneda lemma,
+  but I'm not sure how to make the statement precise. I mean, you can
+  identify points of a space using the functor Hom($\ast$, $-$), but that's
+  not identifying individual points...
+- Filters generalize sequences. This is pretty clear from the definion. It's
+  nice too, since filters are categorical constructions (sorta) and work in
+  more general spaces.
