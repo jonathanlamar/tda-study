@@ -145,3 +145,24 @@ therefore the intersections of open sets of $X$ with $A$. This means they may
 not be open in $X$ (only if $A$ is open in $X$).
 
 ## Chapter 3
+
+### Connectedness
+
+Mostly trivia. Pretty easy concept. Note the definition of path-connectedness.
+This will be important in algebraic topology. Also the fact that there are
+local versions of these definitions (locally connected, locally compact, etc.).
+If not connected (path connected), can usually break up into disjoin union of
+components that are.
+
+### Compactness
+
+Read the beginning paragraph for some history on the concept. The "official"
+definition came later (after the "official" definition of a topological space).
+But the concept was known by its nice properties.
+
+Theorem: In a metrizable space, TFAE:
+
+1. $X$ is compact
+2. Every infinite subset of $X$ has a limit point in $X$.
+3. Every sequence of points in $X$ has a convergent subsequence whose limit lies
+   in $X$.
