@@ -9,8 +9,16 @@
 - [The paper copy of that book](https://www.amazon.com/gp/product/0262539357/)
 - [My first year grad school topology class](http://math.colorado.edu/~jonathan.wise/teaching/math6210-fall-2012/)
 - [scikit-tda](https://github.com/scikit-tda/scikit-tda)
+- [Algebraic Topology by
+  Hatcher](http://pi.math.cornell.edu/~hatcher/AT/ATchapters.html)
 
 ## Week 1
 
 Basic point-set topology. Read chapters 2 and 3 of Munkres. Maybe solve some
 exercises or plot some examples.
+
+## Week 2
+
+Basic point-set continued. Read Chapter 1 of Bradley, Bryson, and Terilla
+(sections on product and quotient toplogies) and chapter 0 of Hatcher. Maybe
+solve exercises.
