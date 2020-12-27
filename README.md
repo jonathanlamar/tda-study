@@ -10,7 +10,7 @@
 - [My first year grad school topology class](http://math.colorado.edu/~jonathan.wise/teaching/math6210-fall-2012/)
 - [scikit-tda](https://github.com/scikit-tda/scikit-tda)
 - [Algebraic Topology by
-  Hatcher](http://pi.math.cornell.edu/~hatcher/AT/ATchapters.html)
+  Hatcher](http://pi.math.cornell.edu/~hatcher/AT/ATpage.html)
 
 ## Week 1
 
