@@ -72,28 +72,6 @@ Nice properties of product spaces:
 2. Taking the product of the closures of subsets in the factors is equivalent to
    taking the closure of the product of those subsets.
 
-### Quotient Topology
-
-This requires a bit of a setup. Suppose we have a surjection $q:X\to Y$, where
-$X$ is a topological space and $Y$ is any _set_. Note that even ignoring
-continuity, the preimages of points of $Y$ form a partition of $X$. Let
-$X^\ast$ be the set consisting of the parts of this partition, and let $p:X\to
-X^\ast$ be the map that takes a point to its equivalence class. Let
-$f:X^\ast\to Y$ be the function which takes an equivalence class $[x]$ to
-$q(x)$. Then by definition of the partition forming $X^\ast$, $f$ is
-well-defined. It is also a bijection, so as sets, we can generally identify the
-image of anyh bijection with the set $X^\ast$ defined in this construction.
-This is to say, that any surjection can be represented by some identification of
-points under an equivalence relation.
-
-There is a natural topology on $X^\ast$ which can be defined as the _finest_
-topology that makes $p$ continuous. This is defined by allowing the open sets
-to be any set whose pre-image under $p$ is open.
-
-Similarly, we can define the analogous topology on $Y$. Both of these
-topologies are referred to as _the quotient topology_. Note that the quotient
-topology endows $p$ (also $q$) with the property of being an _open map_.
-
 ### Subspace Topology
 
 Not a lot to say here. It also has a categorical definition (coarsest topology
