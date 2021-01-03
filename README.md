@@ -20,5 +20,9 @@ exercises or plot some examples.
 ## Week 2
 
 Basic point-set continued. Read Chapter 1 of Bradley, Bryson, and Terilla
-(sections on product and quotient toplogies) and chapter 0 of Hatcher. Maybe
-solve exercises.
+(sections on product and quotient toplogies). Maybe solve exercises.
+
+## Week 3
+
+Basic Homotopy Theory. Read Chapter 0 of Hatcher and section 3.1 of Aguilar et
+al. Work through examples.
