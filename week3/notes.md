@@ -69,7 +69,7 @@ X^\ast$ be the map that takes a point to its equivalence class. Let
 $f:X^\ast\to Y$ be the function which takes an equivalence class $[x]$ to
 $q(x)$. Then by definition of the partition forming $X^\ast$, $f$ is
 well-defined. It is also a bijection, so as sets, we can generally identify the
-image of anyh bijection with the set $X^\ast$ defined in this construction.
+image of any surjection with the set $X^\ast$ defined in this construction.
 This is to say, that any surjection can be represented by some identification of
 points under an equivalence relation.
 
