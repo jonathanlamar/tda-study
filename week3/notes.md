@@ -35,7 +35,7 @@ factors. I.e., if $f_1$ and $f_2$ are paths from $x_1$ to $x_2$, $g_1$ and $g_2$
 are paths from $x_2$ to $x_3$, and $f_1\sim f_2$ and $g_1\sim g_2$, then
 
 $$
-[f_1\ast g_1] \sim [f_2\ast g_1] \ast [f_1\ast g_2] \ast [f_2\ast g_2]
+[f_1\ast g_1] \sim [f_2\ast g_1] \sim [f_1\ast g_2] \sim [f_2\ast g_2]
 \text{ "=" } [f_1]\ast[g_1],
 $$
 
