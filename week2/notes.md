@@ -92,3 +92,17 @@ Other things I read that sound interesting. Ignore for now.
 - Filters generalize sequences. This is pretty clear from the definion. It's
   nice too, since filters are categorical constructions (sorta) and work in
   more general spaces.
+
+## Homotopy Groups
+
+From Munkres (beginning of chapter 9): Why study homotopy groups? Because it's
+easy to prove that spaces are homeomorphic. But to show two spaces are _not_
+homeomorphic (using only existence), you'd have to show that _no_ homeomorphism
+exists. Much better to show that they have different invariants. Consider
+proving that $\mathbb{R}^2$ and $\mathbb{R}^3$ are not homeomorphic. The
+"basic" point-set properties that we know of are the same for each space
+(connectedness, compactness, metrizability, separability, etc.). To Truly
+differentiate between them as topological spaces, you'd need to discuss
+dimension. But we're not allowed to do geometry in topology class, so we have
+to beat around the bush and use notions like "simple connectedness". This is a
+really deep concept that is often discussed in calculus 3 for some reason.
