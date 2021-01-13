@@ -150,7 +150,3 @@ exists a third space Z containing both X and Y as deformation retracts.
 
 _Proof:_ For the less trivial implication one can in fact take $Z$ to be the
 mapping cylinder of any homotopy equivalence between $X$ and $Y$ as above.
-
-## CW Complexes
-
-TODO
