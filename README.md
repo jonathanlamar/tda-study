@@ -25,3 +25,11 @@ Basic point-set continued. Read Chapter 1 of Bradley, Bryson, and Terilla
 
 Basic Homotopy Theory. Read Chapter 0 of Hatcher and section 3.1 of Aguilar et
 al. Work through examples.
+
+## Week 4
+
+Review, next steps.
+
+## Week 5
+
+Van Kampen theorem, homotopy to homology, also TDAStats.
