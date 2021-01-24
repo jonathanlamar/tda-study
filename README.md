@@ -32,4 +32,9 @@ Review, next steps.
 
 ## Week 5
 
-Van Kampen theorem, homotopy to homology, also TDAStats.
+Define simplicial and persistent homology (TODO: Write up notes).
+
+## Week 6
+
+Compute example: Sliding window function on time series data, compute PHOM on
+de-trended data.
