@@ -32,7 +32,9 @@ class BaseConfig:
         df = pd.read_csv('%s/%s.csv' % (dataPath, metric),
                          parse_dates=True)  # This doesn't work...???
         df['Date'] = pd.to_datetime(df['Date'])
+
         dataset = (df
+                   .drop('Time', axis=1)
                    .groupby('Date')  # V1 - only look at daily averages.
                    .mean()
                    .dropna())  # ???
@@ -52,10 +54,11 @@ class BaseConfig:
 
         # Fill in missing rows and impute nulls with 1 (why 1?)
         # TODO: Use the lead(1) logic from Fourier components here.
+        meanVal = df[metric].dropna().mean()
         self.dataset = self._imputeDates(dataset,
                                          self.firstObservedDate,
                                          self.lastObservedDate,
-                                         imputeVal=1)
+                                         imputeVal=meanVal)
 
         self.maxForecastEndDate = (self.lastObservedDate
                                    + relativedelta(self.lastObservedDate,
