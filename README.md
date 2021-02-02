@@ -38,3 +38,11 @@ Define simplicial and persistent homology (TODO: Write up notes).
 
 Compute example: Sliding window function on time series data, compute PHOM on
 de-trended data.
+
+## Week 7
+
+More PHom on Time Series data. Looking at delay embeddings.
+
+## Week 8
+
+Gavriil Leads discussion. More details about PHom on time series.
