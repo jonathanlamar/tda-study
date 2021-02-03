@@ -1,3 +1,4 @@
 *.pdf
 !books/*.pdf
+!papers/*.pdf
 .DS_Store
